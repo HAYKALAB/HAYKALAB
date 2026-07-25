@@ -1,5 +1,10 @@
-## Hi there 👋
+<div align="center">
 
+# 👋 Hi, I'm Ahmad Al Haykal
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;SMK+RPL+Student;Always+Learning+New+Things;Future+Blockchain+Developer" />
+
+</div>
 <!--
 **HAYKALAB/HAYKALAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
