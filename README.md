@@ -1,82 +1,27 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1CB5E0,100:000851&height=220&section=header&text=Ahmad%20Al%20Haykal&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="header banner"/>
-
-<br/>
-
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=I+am+a+Full+Stack+Web+Developer;Siswa+SMK+RPL+-+SMKN+2+Kota+Bekasi;Belajar+HTML%2C+CSS%2C+JavaScript%2C+Node.js+%26+MySQL;Terbuka+untuk+Kesempatan+PKL" alt="Typing SVG"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1CB5E0,100:000851&height=3&width=1000" alt="divider"/>
-
-</div>
+# 💫 About Me:
+## 👨‍💻 About Me<br><br>🚀 Passionate about building clean, scalable, and user-friendly web applications.<br><br>💻 Currently focused on JavaScript, React, Node.js, Express, and MySQL.<br><br>📚 Always learning new technologies and improving my problem-solving skills.<br><br>🌍 Open to collaborating on exciting web development projects.<br><br>🎯 Long-term goal: Become a Full Stack Developer and explore Blockchain Technology.<br><br>⚡ Outside of coding, I enjoy designing interfaces and continuously challenging myself with new projects.
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmadalhaykal) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=HAYKALAB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=HAYKALAB&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HAYKALAB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1CB5E0,100:000851&height=3&width=1000" alt="divider"/>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HAYKALAB&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🛠️ Tech Stack
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<div align="center">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HAYKALAB&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,nodejs,mysql,git,github&theme=dark" alt="tech stack icons"/>
+---
+[![](https://komarev.com/ghpvc/?username=HAYKALAB&icon=0&color=1)](https://visitcount.itsvg.in)
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1CB5E0,100:000851&height=3&width=1000" alt="divider"/>
-</div>
-
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1CB5E0,100:000851&height=3&width=1000" alt="divider"/>
-</div>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAYKALAB&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&ring_color=2E9EF7" width="48%" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAYKALAB&layout=compact&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=c9d1d9" width="48%" alt="top languages"/>
-</p>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1CB5E0,100:000851&height=3&width=1000" alt="divider"/>
-</div>
-
-## 🚀 Proyek
-
-<!-- Ganti "#" dengan link repo kalau sudah di-push -->
-
-| Proyek | Deskripsi | Tech Stack |
-|---|---|---|
-| [Aplikasi Kasir Berbasis Barcode](#) | Aplikasi kasir dengan fitur pemindaian barcode untuk transaksi | HTML, CSS, JavaScript |
-| [Website Portofolio Pribadi](#) | Website portofolio untuk menampilkan profil dan proyek pribadi | HTML, CSS, Tailwind CSS |
-| [Website Kelas](#) | Website informasi dan dokumentasi untuk kelas | HTML, CSS, Bootstrap |
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1CB5E0,100:000851&height=3&width=1000" alt="divider"/>
-</div>
-
-## 📬 Kontak
-
-<div align="center">
-
-
-<a href="https://github.com/HAYKALAB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000851,100:1CB5E0&height=120&section=footer&animation=fadeIn" width="100%" alt="footer banner"/>
-
-<img src="https://komarev.com/ghpvc/?username=HAYKALAB&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views"/>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
