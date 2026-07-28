@@ -14,12 +14,8 @@
 
 </div>
 
-## 👋 Tentang Saya
 
-Siswa SMK jurusan Rekayasa Perangkat Lunak (RPL) yang tertarik di bidang pengembangan web dan pemrograman. Saat ini aktif belajar mandiri **HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Node.js, dan MySQL**. Senang mempelajari teknologi baru, terbiasa bekerja dalam tim, dan sedang mencari kesempatan **PKL (Praktik Kerja Lapangan)** untuk mengembangkan kemampuan teknis maupun soft skill.
 
-- 🗣️ Bahasa Indonesia (Native) · English (Intermediate)
-- 🧩 Soft skills: kemauan belajar tinggi, kerja sama tim, pemecahan masalah
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1CB5E0,100:000851&height=3&width=1000" alt="divider"/>
@@ -37,24 +33,6 @@ Siswa SMK jurusan Rekayasa Perangkat Lunak (RPL) yang tertarik di bidang pengemb
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1CB5E0,100:000851&height=3&width=1000" alt="divider"/>
 </div>
 
-## 🎓 Pendidikan
-
-**SMKN 2 Kota Bekasi** — Bantargebang, Kota Bekasi
-*SMA/SMK Rekayasa Perangkat Lunak · Nilai 88.00/100.00 · Jul 2025 – Jul 2028 (Perkiraan)*
-- Mengembangkan proyek mandiri: aplikasi kasir berbasis barcode, website portofolio pribadi, dan website kelas
-- Meraih Peringkat 2 di kelas pada semester terakhir
-
-## 📜 Sertifikasi & Kursus
-
-**Dicoding Indonesia** — Front-End Web Development (Online) · *Jan 2026 – May 2026*
-- Menyelesaikan kelas Dasar Pemrograman Web, Front-End Web untuk Pemula, dan Dasar Pemrograman JavaScript
-- Menguasai HTML, CSS, JavaScript dasar, serta manipulasi DOM
-
-## 🤝 Organisasi
-
-**Software Community** — Anggota · *Aug 2025 – Jul 2026*
-- Aktif diskusi seputar tren teknologi dan troubleshooting pemrograman
-- Berkolaborasi dalam tim merancang dan membangun aplikasi
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1CB5E0,100:000851&height=3&width=1000" alt="divider"/>
@@ -93,7 +71,6 @@ Siswa SMK jurusan Rekayasa Perangkat Lunak (RPL) yang tertarik di bidang pengemb
 <a href="https://wa.me/6285697369375"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://github.com/HAYKALAB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-📍 Bantargebang, Kota Bekasi
 
 </div>
 
