@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./hologram-card.svg" alt="Profile Hologram Card" width="100%"/>
+<img src="./hologram-cardd.svg" alt="Profile Hologram Card" width="100%"/>
 
 </div>
 
