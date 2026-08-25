@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Haykal&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=818cf8&labelColor=0d1117)
 
 </div>
