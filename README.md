@@ -1,84 +1,83 @@
-p align="center">
-  <picture>
-    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/builder-profile-v2-mobile-dark.svg">
-    <source media="(max-width: 760px)" srcset="./assets/hero/builder-profile-v2-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/builder-profile-v2-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/builder-profile-v2-light.svg">
-    <img src="./assets/hero/builder-profile-v2-dark.svg" alt="Wildan Syukri Niam, full-stack product builder" width="100%">
-  </picture>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://wildan-portfolio-six.vercel.app"><strong>View Portfolio</strong></a>
-</p>
+<img src="./hologram-card.svg" alt="Profile Hologram Card" width="100%"/>
 
-## Hey, I'm Wildan
+</div>
 
-I'm a **full-stack builder** based in Bandung, Indonesia. I work across **AI agents, Web3, and developer tools**, shaping products, leading teams, and building the software behind them.
+<div align="center">
 
-I enjoy taking projects from an early idea to a working release: defining the product, building the core system, testing the final flow, and often coordinating the team along the way.
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=818cf8&labelColor=0d1117)
 
-## What I Build
-
-- **Product & full-stack engineering:** from product direction and interface design to backend systems, integrations, deployment, and QA.
-- **AI products:** tool-using agents, purpose-built interfaces, and workflows that keep people in control.
-- **Web3 applications:** wallet intelligence, API payments, smart contracts, and on-chain product flows.
-- **Developer tools:** testing, reliability, and AI-assisted engineering workflows.
-
-## Selected Work
-
-| Project | What I built | My role · Current state |
-| --- | --- | --- |
-| [**Fradium**](https://github.com/fradiumofficial/fradium) · [Live beta](https://fradium.io) | Surfaces address risk before a user sends funds by combining AI output with community signals. | Team Lead · Full-Stack Developer<br>Public Beta |
-| [**PayGate**](https://github.com/wildanniam/paygate-stellar) · [Testnet beta](https://trypaygate.com) | Lets machine clients pay for individual API requests through HTTP 402 and Stellar testnet. | Founder · Builder<br>Stellar Testnet Beta |
-| [**Nova AI Wallet**](https://github.com/OfficialNovaAI/nova-wallet) · [Public prototype](https://nova-wallet-puce.vercel.app) | Turns wallet intent into clear actions while the connected wallet keeps final signing. | Team Lead · AI Engineer<br>Public Prototype · Degraded |
-| [**SpecHeal**](https://github.com/antech2-async/SpecHeal) | Helps teams distinguish safe selector recovery from real product bugs before applying a controlled repair. | Team Lead · Full-Stack & Product Developer<br>Hackathon Prototype · Offline |
-| [**Quorum**](https://github.com/wildanniam/Quorum) · [Testnet build](https://quorum-sandy-eight.vercel.app) | Connects event checkout, collaborator splits, wallet-bound passes, gated resources, and withdrawals. | Team Lead · Full-Stack & Smart Contract Engineer<br>Active Stellar Testnet Build |
-
-## Selected Highlights
-
-- **Fradium team:** winner of the [WCHL 2025 Global Finale Fully On-Chain Track](https://bse.telkomuniversity.ac.id/tim-fradium-berhasil-meraih-global-finale-winner-fully-on-chain-track-pada-world-computer-hacker-league-2025/).
-- **PayGate:** awarded a [$5,000 Stellar Community Fund Instaward](https://x.com/Indo_Stellar/status/2075550378553421994).
-- **Nova AI team:** 1st notable mention and 1st Social Media Challenge winner at the [SEA Lisk Builder Challenge 3](https://bse.telkomuniversity.ac.id/prestasi-tim-nova-ai-di-south-east-asia-lisk-builder-challenge-3/).
-- **SpecHeal team:** [2nd place at Refactory Hackathon 2026](https://portofolio-wildan-zeta.vercel.app/).
-
-## What I'm Exploring
-
-I'm interested in AI agents that can work with real tools, software, and financial systems, not only generate text.
-
-Research helps me understand the deeper questions. Building prototypes and products is how I test those ideas in practice.
-
-## Tools I Use
-
-`TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `Rust` · `Motoko` · `PostgreSQL` · `Playwright` · `Stellar` · `Internet Computer`
-
-## Contribution Trail
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wildanniam/wildanniam/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wildanniam/wildanniam/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/wildanniam/wildanniam/output/github-contribution-grid-snake.svg" alt="Animated snake moving through Wildan's GitHub contribution graph" width="100%">
-  </picture>
-</p>
-
-<details>
-<summary><strong>Recent public activity</strong></summary>
-<br>
-
-<!-- AUTO:ACTIVITY:START -->
-- Aug 20, 2026: pushed 1 commit to [wildanniam/koderea](https://github.com/wildanniam/koderea).
-- Aug 19, 2026: pushed 1 commit to [wildanniam/koderea](https://github.com/wildanniam/koderea).
-- Aug 19, 2026: merged pull request [#11](https://github.com/wildanniam/koderea/pull/11) in [wildanniam/koderea](https://github.com/wildanniam/koderea).
-- Aug 19, 2026: closed issue [#12](https://github.com/wildanniam/koderea/issues/12) in [wildanniam/koderea](https://github.com/wildanniam/koderea).
-- Aug 19, 2026: closed issue [#10](https://github.com/wildanniam/koderea/issues/10) in [wildanniam/koderea](https://github.com/wildanniam/koderea).
-- Aug 19, 2026: opened issue [#12](https://github.com/wildanniam/koderea/issues/12) in [wildanniam/koderea](https://github.com/wildanniam/koderea).
-<!-- AUTO:ACTIVITY:END -->
-
-</details>
+</div>
 
 ---
 
-<p align="center">
-  Building useful products around AI, Web3, and developer tools.
-</p>
+## 🌐 Connect With Me
+
+<div align="center">
+
+<!-- Ganti link/username sesuai akun kamu -->
+<a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:youremail@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://yourportfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=818cf8&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repo
+
+<div align="center">
+
+<!-- Ganti "yourusername/your-repo" dengan repo andalan kamu -->
+<a href="https://github.com/yourusername/your-repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=818cf8&text_color=c9d1d9" />
+</a>
+
+</div>
