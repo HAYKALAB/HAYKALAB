@@ -6,8 +6,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Haykal&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=818cf8&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=HaykalAB&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/HAYKALAB?style=for-the-badge&color=818cf8&labelColor=0d1117)
 
 </div>
 
@@ -54,8 +54,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=818cf8&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAYKALAB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=818cf8&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAYKALAB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9"/>
 
 </div>
 
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=HAYKALAB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
 </div>
 
