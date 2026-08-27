@@ -6,7 +6,7 @@
   <img alt="HAYKALAB's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-<img src="./hologram-cardd.svg" alt="Profile Hologram Card" width="100%"/>
+
 
 </div>
 
