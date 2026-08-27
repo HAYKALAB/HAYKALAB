@@ -79,7 +79,7 @@
   <text x="732" y="439" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 6</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 0</tspan></text>
   <text x="732" y="459" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">............</tspan><tspan fill="#79c0ff"> 26</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 7</tspan></text>
 
-  <g stroke="#22d3ee" stroke-width="1" opacity="0.55" fill="none">
+<g stroke="#22d3ee" stroke-width="1" opacity="0.55" fill="none">
   <line x1="60" y1="200" x2="20" y2="200"/>
   <circle cx="16" cy="200" r="4"/>
   <line x1="500" y1="260" x2="545" y2="260"/>
@@ -110,4 +110,6 @@
 <line x1="24" y1="705" x2="1176" y2="705" stroke="#1e293b" stroke-width="1"/>
 <text x="600" y="732" text-anchor="middle" class="caption">WEB DEVELOPMENT  /  JAVASCRIPT  /  REACT  /  NODE.JS</text>
 
+
+  
 </svg>
