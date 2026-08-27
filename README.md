@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_modee.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_modee.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="haykal-github-card.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="haykal-github-card.svg" />
   <img alt="HAYKALAB's GitHub profile" src="dark_mode.svg" />
 </picture>
 
