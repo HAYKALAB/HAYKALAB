@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- Ganti link/username sesuai akun kamu -->
-<a href="https://www.linkedin.com/in/yourusername" target="_blank">
+<a href="https://www.linkedin.com/in/ahmad-al-haykal-19952b3b6" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/yourusername" target="_blank">
