@@ -30,7 +30,7 @@
 <a href="https://instagram.com/ahmadalhaykal" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:youremail@example.com" target="_blank">
+<a href="ahmadalhaykal94@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://yourportfolio.com" target="_blank">
