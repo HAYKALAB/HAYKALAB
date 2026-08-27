@@ -1,5 +1,11 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="HAYKALAB's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <img src="./hologram-cardd.svg" alt="Profile Hologram Card" width="100%"/>
 
 </div>
